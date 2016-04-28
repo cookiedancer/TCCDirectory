@@ -16,15 +16,15 @@ public class Vbsc extends World
     public Vbsc()
     {    
         
-        super(850, 520, 1); 
+        super(970, 690, 1); 
        
-         addObject (new TaskBar(),485,520);
+         addObject (new TaskBar(),487,665);
          addObject (new Back(),550,50);
-         addObject (new StudyKey(),32,383);
-         addObject (new FitnessKey(),87,383);
-         addObject (new GamingKey(),140,383);
-         addObject (new BNKey(),194,383);
-         addObject (new CafeKey(),251,383);
+         addObject (new StudyKey(),449,671);
+         addObject (new FitnessKey(),349,674);
+         addObject (new GamingKey(),259,671);
+         addObject (new BNKey(),162,671);
+         addObject (new CafeKey(),62,671);
          
     }
 }

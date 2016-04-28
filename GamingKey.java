@@ -20,7 +20,7 @@ public class GamingKey extends Keys
      
     }  
      GreenfootImage image = getImage();  
-        image.scale(50, 30);
+        image.scale(100, 60);
         setImage(image);//sets size
     
 }

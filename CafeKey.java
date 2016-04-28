@@ -15,11 +15,11 @@ public class CafeKey extends Keys
     public void act() 
      {
         if (Greenfoot.mouseClicked(this)) {
-        Greenfoot.setWorld(new fitness());
+        Greenfoot.setWorld(new Cafe());
       
     }  
      GreenfootImage image = getImage();  
-        image.scale(50, 30);
+        image.scale(100, 60);
         setImage(image);//sets size
 }
 }

@@ -18,7 +18,7 @@ public class TaskBar extends Actor
     } 
     {//30    
         GreenfootImage image = getImage();  
-        image.scale(970, 50);
+        image.scale(980, 50);
         setImage(image);//sets size
     }//31 
 }
