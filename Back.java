@@ -1,10 +1,10 @@
 import greenfoot.*;
 
 /**
- * Write a description of class Apple here.
+ * Takes you back to the previous world.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * Ethan, Chris, Andrew
+ * Version 2.4.2
  */
 public class Back extends Keys
 {

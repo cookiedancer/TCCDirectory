@@ -1,10 +1,10 @@
 import greenfoot.*;
 
 /**
- * Write a description of class TCC here.
+ * This is the main map of TCC. The buildings take you into their worlds
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * Ethan, Chris, Andrew
+ * Version 2.4.2
  */
 public class TCC extends World
 {//0
@@ -58,7 +58,9 @@ public void checkKeyPress()
     {
         Greenfoot.setWorld(new Hat());
 }
-
+if (Greenfoot.isKeyDown("G"))
+    {
+        Greenfoot.setWorld(new Bay());
 }
 }
-
+}
