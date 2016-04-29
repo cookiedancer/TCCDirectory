@@ -6,7 +6,7 @@ import greenfoot.*;
  * @author (your name) 
  * @version (a version number or a date)
  */
-public class Cal extends Actor
+public class Cal extends Boards
 {
     /**
      * Act - do whatever the Cal wants to do. This method is called whenever

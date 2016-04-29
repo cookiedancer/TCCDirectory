@@ -14,6 +14,6 @@ public class Cafe extends Vbsc
      * 
      */
     public Cafe()
-    {addObject (new CafeMenu(),746,344);
+    {addObject (new CafeMenu(),746,320);
     }
 }

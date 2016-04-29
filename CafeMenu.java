@@ -6,7 +6,7 @@ import greenfoot.*;
  * @author (your name) 
  * @version (a version number or a date)
  */
-public class CafeMenu extends Actor
+public class CafeMenu extends Boards
 {
     /**
      * Act - do whatever the CafeMenu wants to do. This method is called whenever
@@ -16,7 +16,7 @@ public class CafeMenu extends Actor
     {
         {//30    
         GreenfootImage image = getImage();  
-        image.scale(450,690);
+        image.scale(450,638);
         setImage(image);
     }//31
     }    

@@ -19,7 +19,7 @@ public class Vbsc extends World
         super(970, 690, 1); 
        
          addObject (new TaskBar(),487,665);
-         addObject (new Back(),550,50);
+         addObject (new Back(),564,664);
          addObject (new StudyKey(),449,671);
          addObject (new FitnessKey(),349,674);
          addObject (new GamingKey(),259,671);

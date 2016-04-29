@@ -14,6 +14,6 @@ public class BarnsNoble extends Vbsc
      * 
      */
     public BarnsNoble()
-    {
+    {addObject (new BNhours(),842,532);
     }
 }
